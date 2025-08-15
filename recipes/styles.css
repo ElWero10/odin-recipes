@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    text-align: center;
+    background-color: hsl(110, 50%, 70%);
+    width: 500px;
+    margin: 10px auto;
+}
+
+img {
+    margin: 0 auto;
+    width: 500px;
+    height: 500px;
+    display: block;
+}
