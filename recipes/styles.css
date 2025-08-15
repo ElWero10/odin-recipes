@@ -16,4 +16,33 @@ img {
     width: 500px;
     height: 500px;
     display: block;
+    border: 2px solid black;
+}
+
+a, h2, ul, ol, p {
+    margin: 0 auto;
+    display: block;
+    width: 450px;
+    text-align: center;
+    background-color:aliceblue;
+    font-size: 24px;
+    text-decoration: none;
+    padding: 5px;
+    margin-top: 5px;
+    border: 2px solid black;
+}
+
+li {
+    border: 2px solid black;
+    margin: 5px;
+    list-style: none;
+}
+
+h2 {
+    background-color: lightcoral;
+    width: 500px;
+}
+
+a {
+    width: 500px;
 }
